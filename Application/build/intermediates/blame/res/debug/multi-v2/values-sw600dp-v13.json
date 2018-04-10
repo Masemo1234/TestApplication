@@ -1,16 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "/home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "outputFile": "C:\\Users\\Marius\\Documents\\GitHub\\TestApplication\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "/home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/res/values-sw600dp/template-dimens.xml",
+                    "source": "C:\\Users\\Marius\\Documents\\GitHub\\TestApplication\\Application\\src\\main\\res\\values-sw600dp\\template-dimens.xml",
                     "from": {
                         "startLines": "20,21",
                         "startColumns": "4,4",
-                        "startOffsets": "656,724",
+                        "startOffsets": "676,745",
                         "endColumns": "67,67",
-                        "endOffsets": "719,787"
+                        "endOffsets": "739,808"
                     },
                     "to": {
                         "startLines": "10,11",
@@ -21,14 +21,24 @@
                     }
                 },
                 {
-                    "source": "/home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/res/values-sw600dp/template-styles.xml",
+                    "source": "C:\\Users\\Marius\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\34f775249342b9289c565829aa3603dd\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Marius\\Documents\\GitHub\\TestApplication\\Application\\src\\main\\res\\values-sw600dp\\template-styles.xml",
                     "from": {
                         "startLines": "18",
                         "startColumns": "4",
-                        "startOffsets": "621",
+                        "startOffsets": "639",
                         "endLines": "22",
                         "endColumns": "12",
-                        "endOffsets": "861"
+                        "endOffsets": "883"
                     },
                     "to": {
                         "startLines": "12",
@@ -37,16 +47,6 @@
                         "endLines": "16",
                         "endColumns": "12",
                         "endOffsets": "987"
-                    }
-                },
-                {
-                    "source": "/home/marius/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/08d77369abf25125510c3c57eac199bb/res/values-sw600dp-v13/values-sw600dp-v13.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,124,193,263,337,413,472,543",
-                        "endColumns": "68,68,69,73,75,58,70,67",
-                        "endOffsets": "119,188,258,332,408,467,538,606"
                     }
                 }
             ]

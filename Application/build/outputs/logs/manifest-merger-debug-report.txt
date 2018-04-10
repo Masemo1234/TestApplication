@@ -1,93 +1,93 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/AndroidManifest.xml:18:1-41:12
-INJECTED from /home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/AndroidManifest.xml:18:1-41:12
-INJECTED from /home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/AndroidManifest.xml:18:1-41:12
-MERGED from [com.android.support:support-v4:27.0.2] /home/marius/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/b72beb012f4d33481a589f8285292b67/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:gridlayout-v7:27.0.2] /home/marius/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-27.0.2.aar/0a85a1fae573358a57e3554b9b3d41fb/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cardview-v7:27.0.2] /home/marius/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/0d7398c5d17f28f279e507ff75ff22f8/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:appcompat-v7:27.0.2] /home/marius/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/08d77369abf25125510c3c57eac199bb/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.0.2] /home/marius/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/42dea4be72ea265f71071db83325d5e9/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.0.2] /home/marius/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/3c9647564bf7d1e41185377122821dbb/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.0.2] /home/marius/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/d81134ce422749a78d1f1c5eaeb43cd8/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/marius/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/a38d4f44823219bcf0a2fbe4f3305c5b/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.0.2] /home/marius/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/e304c9a3727763c2f28b5c397bf48ae7/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/marius/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/8cdf5f44ce1cf136e5b048f191656202/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.0.2] /home/marius/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/bc4c3cadc57152528096a0030362ff37/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/marius/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/1e2419a58b54e5e414393e27bf8913d9/AndroidManifest.xml:17:1-24:12
-INJECTED from /home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/AndroidManifest.xml:18:1-41:12
-INJECTED from /home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/AndroidManifest.xml:18:1-41:12
+ADDED from C:\Users\Marius\Documents\GitHub\TestApplication\Application\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from C:\Users\Marius\Documents\GitHub\TestApplication\Application\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from C:\Users\Marius\Documents\GitHub\TestApplication\Application\src\main\AndroidManifest.xml:18:1-41:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Marius\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\21b9925b1ebe33781c292f9c3c5230aa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\Marius\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\1e08782dd5a3916604a8e5f507a56f94\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\Marius\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\c79ddb8efca97870a30f4d75003d436c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Marius\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\34f775249342b9289c565829aa3603dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Marius\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\3d9ea4c1b76ec205ab2363f418608e90\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Marius\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\0c1f6b53fdcf5ac1e7ae11f6b179e88f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Marius\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\7340e6dff0e5c8e14669a70246e21735\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Marius\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\77a52a69daaa308c409fb268a6c9131b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Marius\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\37338de4c34400c4b17c0e616bd22184\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Marius\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\a3e7ec507ce5fbd343badea0ce357ee5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Marius\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\6318d78d8aa0d065d20b738b9bdcca97\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Marius\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\a16c5185eaf161f1899afbbc0576271a\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Marius\Documents\GitHub\TestApplication\Application\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from C:\Users\Marius\Documents\GitHub\TestApplication\Application\src\main\AndroidManifest.xml:18:1-41:12
 	package
-		ADDED from /home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/AndroidManifest.xml:19:5-56
+		ADDED from C:\Users\Marius\Documents\GitHub\TestApplication\Application\src\main\AndroidManifest.xml:19:5-56
 	android:versionName
-		ADDED from /home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/AndroidManifest.xml:21:5-30
-		INJECTED from /home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/AndroidManifest.xml
-		INJECTED from /home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/AndroidManifest.xml
+		ADDED from C:\Users\Marius\Documents\GitHub\TestApplication\Application\src\main\AndroidManifest.xml:21:5-30
+		INJECTED from C:\Users\Marius\Documents\GitHub\TestApplication\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Marius\Documents\GitHub\TestApplication\Application\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/AndroidManifest.xml:18:11-69
+		ADDED from C:\Users\Marius\Documents\GitHub\TestApplication\Application\src\main\AndroidManifest.xml:18:11-69
 	android:versionCode
-		ADDED from /home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/AndroidManifest.xml:20:5-28
-		INJECTED from /home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/AndroidManifest.xml
-		INJECTED from /home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/AndroidManifest.xml
+		ADDED from C:\Users\Marius\Documents\GitHub\TestApplication\Application\src\main\AndroidManifest.xml:20:5-28
+		INJECTED from C:\Users\Marius\Documents\GitHub\TestApplication\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Marius\Documents\GitHub\TestApplication\Application\src\main\AndroidManifest.xml
 application
-ADDED from /home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/AndroidManifest.xml:26:5-39:19
+ADDED from C:\Users\Marius\Documents\GitHub\TestApplication\Application\src\main\AndroidManifest.xml:26:5-39:19
 	android:label
-		ADDED from /home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/AndroidManifest.xml:28:9-41
+		ADDED from C:\Users\Marius\Documents\GitHub\TestApplication\Application\src\main\AndroidManifest.xml:28:9-41
 	android:icon
-		ADDED from /home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/AndroidManifest.xml:27:9-45
+		ADDED from C:\Users\Marius\Documents\GitHub\TestApplication\Application\src\main\AndroidManifest.xml:27:9-45
 	android:allowBackup
-		ADDED from /home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/AndroidManifest.xml:30:9-35
+		ADDED from C:\Users\Marius\Documents\GitHub\TestApplication\Application\src\main\AndroidManifest.xml:30:9-35
 	android:theme
-		ADDED from /home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/AndroidManifest.xml:29:9-47
+		ADDED from C:\Users\Marius\Documents\GitHub\TestApplication\Application\src\main\AndroidManifest.xml:29:9-47
 activity#com.example.android.actionbarcompat.basic.MainActivity
-ADDED from /home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/AndroidManifest.xml:32:9-38:20
+ADDED from C:\Users\Marius\Documents\GitHub\TestApplication\Application\src\main\AndroidManifest.xml:32:9-38:20
 	android:name
-		ADDED from /home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/AndroidManifest.xml:32:19-47
+		ADDED from C:\Users\Marius\Documents\GitHub\TestApplication\Application\src\main\AndroidManifest.xml:32:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/AndroidManifest.xml:34:13-37:29
+ADDED from C:\Users\Marius\Documents\GitHub\TestApplication\Application\src\main\AndroidManifest.xml:34:13-37:29
 action#android.intent.action.MAIN
-ADDED from /home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/AndroidManifest.xml:35:17-69
+ADDED from C:\Users\Marius\Documents\GitHub\TestApplication\Application\src\main\AndroidManifest.xml:35:17-69
 	android:name
-		ADDED from /home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/AndroidManifest.xml:35:25-66
+		ADDED from C:\Users\Marius\Documents\GitHub\TestApplication\Application\src\main\AndroidManifest.xml:35:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/AndroidManifest.xml:36:17-77
+ADDED from C:\Users\Marius\Documents\GitHub\TestApplication\Application\src\main\AndroidManifest.xml:36:17-77
 	android:name
-		ADDED from /home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/AndroidManifest.xml:36:27-74
+		ADDED from C:\Users\Marius\Documents\GitHub\TestApplication\Application\src\main\AndroidManifest.xml:36:27-74
 uses-sdk
-INJECTED from /home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/AndroidManifest.xml
-INJECTED from /home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/AndroidManifest.xml
-MERGED from [com.android.support:support-v4:27.0.2] /home/marius/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/b72beb012f4d33481a589f8285292b67/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.0.2] /home/marius/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/b72beb012f4d33481a589f8285292b67/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:gridlayout-v7:27.0.2] /home/marius/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-27.0.2.aar/0a85a1fae573358a57e3554b9b3d41fb/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:gridlayout-v7:27.0.2] /home/marius/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-27.0.2.aar/0a85a1fae573358a57e3554b9b3d41fb/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:27.0.2] /home/marius/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/0d7398c5d17f28f279e507ff75ff22f8/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:27.0.2] /home/marius/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/0d7398c5d17f28f279e507ff75ff22f8/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.0.2] /home/marius/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/08d77369abf25125510c3c57eac199bb/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.0.2] /home/marius/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/08d77369abf25125510c3c57eac199bb/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.0.2] /home/marius/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/42dea4be72ea265f71071db83325d5e9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.0.2] /home/marius/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/42dea4be72ea265f71071db83325d5e9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.0.2] /home/marius/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/3c9647564bf7d1e41185377122821dbb/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.0.2] /home/marius/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/3c9647564bf7d1e41185377122821dbb/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.0.2] /home/marius/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/d81134ce422749a78d1f1c5eaeb43cd8/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.0.2] /home/marius/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/d81134ce422749a78d1f1c5eaeb43cd8/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/marius/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/a38d4f44823219bcf0a2fbe4f3305c5b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/marius/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/a38d4f44823219bcf0a2fbe4f3305c5b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.0.2] /home/marius/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/e304c9a3727763c2f28b5c397bf48ae7/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.0.2] /home/marius/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/e304c9a3727763c2f28b5c397bf48ae7/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/marius/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/8cdf5f44ce1cf136e5b048f191656202/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/marius/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/8cdf5f44ce1cf136e5b048f191656202/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.0.2] /home/marius/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/bc4c3cadc57152528096a0030362ff37/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.0.2] /home/marius/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/bc4c3cadc57152528096a0030362ff37/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/marius/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/1e2419a58b54e5e414393e27bf8913d9/AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/marius/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/1e2419a58b54e5e414393e27bf8913d9/AndroidManifest.xml:20:5-22:41
-INJECTED from /home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/AndroidManifest.xml
-INJECTED from /home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/AndroidManifest.xml
+INJECTED from C:\Users\Marius\Documents\GitHub\TestApplication\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Marius\Documents\GitHub\TestApplication\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Marius\Documents\GitHub\TestApplication\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Marius\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\21b9925b1ebe33781c292f9c3c5230aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Marius\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\21b9925b1ebe33781c292f9c3c5230aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\Marius\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\1e08782dd5a3916604a8e5f507a56f94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\Marius\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\1e08782dd5a3916604a8e5f507a56f94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\Marius\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\c79ddb8efca97870a30f4d75003d436c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\Marius\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\c79ddb8efca97870a30f4d75003d436c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Marius\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\34f775249342b9289c565829aa3603dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Marius\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\34f775249342b9289c565829aa3603dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Marius\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\3d9ea4c1b76ec205ab2363f418608e90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Marius\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\3d9ea4c1b76ec205ab2363f418608e90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Marius\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\0c1f6b53fdcf5ac1e7ae11f6b179e88f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Marius\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\0c1f6b53fdcf5ac1e7ae11f6b179e88f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Marius\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\7340e6dff0e5c8e14669a70246e21735\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Marius\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\7340e6dff0e5c8e14669a70246e21735\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Marius\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\77a52a69daaa308c409fb268a6c9131b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Marius\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\77a52a69daaa308c409fb268a6c9131b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Marius\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\37338de4c34400c4b17c0e616bd22184\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Marius\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\37338de4c34400c4b17c0e616bd22184\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Marius\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\a3e7ec507ce5fbd343badea0ce357ee5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Marius\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\a3e7ec507ce5fbd343badea0ce357ee5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Marius\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\6318d78d8aa0d065d20b738b9bdcca97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Marius\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\6318d78d8aa0d065d20b738b9bdcca97\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Marius\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\a16c5185eaf161f1899afbbc0576271a\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Marius\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\a16c5185eaf161f1899afbbc0576271a\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Marius\Documents\GitHub\TestApplication\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Marius\Documents\GitHub\TestApplication\Application\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/AndroidManifest.xml
-		ADDED from /home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/AndroidManifest.xml
-		INJECTED from /home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Marius\Documents\GitHub\TestApplication\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Marius\Documents\GitHub\TestApplication\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Marius\Documents\GitHub\TestApplication\Application\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/AndroidManifest.xml
-		ADDED from /home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/AndroidManifest.xml
-		INJECTED from /home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Marius\Documents\GitHub\TestApplication\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Marius\Documents\GitHub\TestApplication\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Marius\Documents\GitHub\TestApplication\Application\src\main\AndroidManifest.xml

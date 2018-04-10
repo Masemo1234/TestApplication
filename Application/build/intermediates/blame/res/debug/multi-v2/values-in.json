@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-in/values-in.xml",
+            "outputFile": "C:\\Users\\Marius\\Documents\\GitHub\\TestApplication\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-in\\values-in.xml",
             "map": [
                 {
-                    "source": "/home/marius/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/bc4c3cadc57152528096a0030362ff37/res/values-in/values-in.xml",
+                    "source": "C:\\Users\\Marius\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\6318d78d8aa0d065d20b738b9bdcca97\\res\\values-in\\values-in.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/marius/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/08d77369abf25125510c3c57eac199bb/res/values-in/values-in.xml",
+                    "source": "C:\\Users\\Marius\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\34f775249342b9289c565829aa3603dd\\res\\values-in\\values-in.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
