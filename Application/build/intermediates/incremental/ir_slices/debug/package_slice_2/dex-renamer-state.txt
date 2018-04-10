@@ -1,0 +1,4 @@
+#Mon Apr 09 18:05:12 CEST 2018
+base.0=/home/marius/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex
